@@ -134,14 +134,14 @@ area <- 3.14 * (radius * 2)
 
 1.  Is the AI-generated code correct? What error did it make?
 
-    AI generated code are incorrect. We don't use 3.14 but we use "pi"
+    The AI-generated code is incorrect because it uses 3.14 instead of R's built-in pi and uses `radius * 2` instead of `radius^2`.
 
 2.  Correct the code below using R's built-in constant `pi` and proper formula ($\text{Area} = \pi r^2$):
 
 ```{r corrected-code}
 # Corrected code:
 radius <- 7.5
-area <- pi * (radius * 2)
+area <- pi * (radius ^ 2)
 area
 ```
 
