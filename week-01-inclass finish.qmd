@@ -1,7 +1,7 @@
 ---
 title: "Week 1 In-Class Exercise: Welcome & Modern Toolkit"
 subtitle: "GPH-GU 2182 · Statistical Programming in R"
-author: "Yishan Guo & PARTNER Zhang"
+author: "Yishan Guo & Sammi Zhang"
 date: "September 2, 2026"
 format:
   html:
